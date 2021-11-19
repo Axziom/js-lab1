@@ -6,3 +6,4 @@ Under utveckling
 ## Info
 
 ## Github pages
+https://axziom.github.io/js-lab1/
